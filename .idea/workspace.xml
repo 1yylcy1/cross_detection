@@ -1,0 +1,494 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="60c51cff-0967-43ae-9c72-778040747d0c" name="Default Changelist" comment="version one">
+      <change afterPath="$PROJECT_DIR$/.idea/PyQt5-YOLOv5-master.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dbnavigator.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/LICENSE" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/MouseLabel.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apprcc.qrc" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/apprcc_rc.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/fold.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/ip.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/config/setting.json" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cross_test/cross_test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Argoverse_HD.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/GlobalWheat2020.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/Objects365.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/SKU-110K.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/VOC.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/VisDrone.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/coco.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/coco128.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/fall.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/head.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hyps/hyp.finetune.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hyps/hyp.finetune_objects365.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hyps/hyp.scratch-p6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/hyps/hyp.scratch.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/停止.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/图片1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/开始.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/打开.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/摄像头关.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/摄像头开.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/数据探索.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/模.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/模型中心.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/icon/赞停.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/bus.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/zidane.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/images/zidane.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/mp3/crossing_warning_1.mp3" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scripts/download_weights.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scripts/get_coco.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/scripts/get_coco128.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data/xView.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialog/rtsp_dialog.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialog/rtsp_dialog.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/dialog/rtsp_win.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/export.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fall_test/微信图片_20230728102638.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fall_test/微信图片_20230728102646.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fall_test/微信图片_20230728102734.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fall_test/微信图片_20230728102756.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fall_test/微信图片_20230728102907.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fall_test/监控.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/fall_test/监控图.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/hubconf.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/background.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/background1.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/backgroung2.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/button-off.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/button-on.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/conan .png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/doctor.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/evil.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/下拉_白色.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/停止.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/关闭.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/图片.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/圆.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/实时视频流解析.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/打开.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/摄像头关.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/摄像头开.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/数据探索.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/暂停.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/最大化.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/最小化.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/正方形.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/笑脸.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/箭头_列表展开.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/箭头_列表收起.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/终止.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/背景.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/表情.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/赞停.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/运行.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/icon/还原.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_win/win.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/main_win/win1.ui" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/common.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/experimental.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/anchors.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov3-spp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov3-tiny.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov3.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-fpn.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-p2.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-p6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-p7.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5-panet.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5l6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5m6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5s-transformer.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5s6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/hub/yolov5x6.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolo.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5l.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5m.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5s.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/models/yolov5x.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/past_module/body_detect.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/past_module/data_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/past_module/data_chart2(false version).py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/past_module/del_folder.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/past_module/now_chart.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/predict_det.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/walk_1.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/my_module/xgboost_classifier_model.model" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/abnor_detec.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/crossing.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/fall.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/head.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/pt/yolov5l.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/pt/yolov5m.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/pt/yolov5s.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pt/yolov5s.pt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/readme.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp/hyp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp/opt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp2/hyp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp2/opt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp3/hyp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp3/opt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp4/hyp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp4/opt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp6/hyp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp6/opt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp7/hyp.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/runs/train/exp7/opt.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/CustomMessageBox.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/activations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/augmentations.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/autoanchor.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/mime.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/resume.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/aws/userdata.sh" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/cal_fps.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/capnums.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/datasets.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/flask_rest_api/README.md" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/flask_rest_api/example_request.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/flask_rest_api/restapi.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/general.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_app_engine/Dockerfile" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_app_engine/additional_requirements.txt" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_app_engine/app.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/google_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/loss.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/metrics.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/plots.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/simhei.ttf" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/torch_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/log_dataset.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/sweep.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/sweep.yaml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/utils/wandb_logging/wandb_utils.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/walk_test/walk_test.jpg" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/xgboost_classifier_model.model" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="ChangesViewManager">
+    <option name="groupingKeys">
+      <option value="directory" />
+    </option>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+    <option name="RESET_MODE" value="SOFT" />
+  </component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;
+  }
+}</component>
+  <component name="GitSEFilterConfiguration">
+    <file-type-list>
+      <filtered-out-file-type name="LOCAL_BRANCH" />
+      <filtered-out-file-type name="REMOTE_BRANCH" />
+      <filtered-out-file-type name="TAG" />
+      <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
+    </file-type-list>
+  </component>
+  <component name="GithubPullRequestsUISettings">
+    <option name="selectedUrlAndAccountId">
+      <UrlAndAccount>
+        <option name="accountId" value="e3295d4b-ffb7-4bc7-b129-c851a4a72f37" />
+        <option name="url" value="https://github.com/1yylcy1/abnormal_detection.git" />
+      </UrlAndAccount>
+    </option>
+  </component>
+  <component name="HighlightingSettingsPerFile">
+    <setting file="file://$PROJECT_DIR$/main.spec" root0="FORCE_HIGHLIGHTING" root1="SKIP_HIGHLIGHTING" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectId" id="2DQnfUW2fqn4PrPhgDaNriXX51u" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "last_opened_file_path": "D:/文档/大学相关/大学竞赛/高校人工智能大赛/软件版abnormal",
+    "settings.editor.selected.configurable": "preferences.pluginManager"
+  }
+}]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\文档\大学相关\大学竞赛\高校人工智能大赛\人工智能复赛项目资料\crossing_detection复赛版\my_module" />
+      <recent name="D:\文档\大学相关\大学竞赛\高校人工智能大赛\人工智能复赛项目资料\crossing_detection复赛版" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.main">
+    <configuration name="特征工程" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-YOLOv5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_create" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_create/特征工程.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="测试窗口" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-YOLOv5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/data_create" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/data_create/测试窗口.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="__init__" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-YOLOv5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$USER_HOME$/.conda/envs/yolov5_pyqt5/Lib/site-packages/torchvision" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$USER_HOME$/.conda/envs/yolov5_pyqt5/Lib/site-packages/torchvision/__init__.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="main" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-YOLOv5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-YOLOv5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="torch_utils" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-YOLOv5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/utils/torch_utils.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="win" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="PyQt5-YOLOv5-master" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/main_win" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/main_win/win.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <list>
+      <item itemvalue="Python.特征工程" />
+      <item itemvalue="Python.__init__" />
+      <item itemvalue="Python.main" />
+      <item itemvalue="Python.test" />
+      <item itemvalue="Python.torch_utils" />
+      <item itemvalue="Python.win" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.main" />
+        <item itemvalue="Python.__init__" />
+        <item itemvalue="Python.torch_utils" />
+        <item itemvalue="Python.win" />
+        <item itemvalue="Python.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="SvnConfiguration">
+    <configuration>C:\Users\Lenovo\AppData\Roaming\Subversion</configuration>
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="60c51cff-0967-43ae-9c72-778040747d0c" name="Default Changelist" comment="" />
+      <created>1660640279087</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1660640279087</updated>
+    </task>
+    <task id="LOCAL-00001" summary="删除yolox.pt">
+      <created>1690718917014</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1690718917014</updated>
+    </task>
+    <task id="LOCAL-00002" summary="删除yolox.pt">
+      <created>1690771818899</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1690771818899</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="RECENT_FILTERS">
+      <map>
+        <entry key="Branch">
+          <value>
+            <list>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="HEAD" />
+                </option>
+              </RecentGroup>
+              <RecentGroup>
+                <option name="FILTER_VALUES">
+                  <option value="master" />
+                </option>
+              </RecentGroup>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="FILTERS">
+                <map>
+                  <entry key="branch">
+                    <value>
+                      <list>
+                        <option value="HEAD" />
+                      </list>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="删除yolox.pt" />
+    <MESSAGE value="version one" />
+    <option name="LAST_COMMIT_MESSAGE" value="version one" />
+  </component>
+</project>
