@@ -363,8 +363,8 @@ class MainWindow(QMainWindow, Ui_mainWindow):
         print()
 
     def __init__(self, parent=None):
-        super(MainWindow, self).__init__(parent)
-        self.setupUi(self)
+        super(MainWindow, self).__init__(parent)#调用父类的同名方法
+        self.setupUi(self)#Ui_mainWindow里面的界面函数
         self.m_flag = False
         # win10的CustomizeWindowHint模式，边框上面有一段空白。
         # 不想看到顶部空白可以用FramelessWindowHint模式，但是需要重写鼠标事件才能通过鼠标拉伸窗口，比较麻烦
